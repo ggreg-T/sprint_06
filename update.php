@@ -1,6 +1,6 @@
 <?php
 // Inclure le fichier
-require_once "config.php";
+include "config.php";
  
 // Definir les variables
 $reference = $nom = $description = $prixachat = $prixvente = $quantite = "";

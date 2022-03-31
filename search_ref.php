@@ -40,7 +40,7 @@ $search =  $_POST["search_ref"];
                     <?php
 
                     // Inclure le fichier config
-                    require_once "config.php";
+                    include "config.php";
                     
                     // select query execution
                     $sql = "SELECT * FROM STOCKS WHERE reference ='$search'";

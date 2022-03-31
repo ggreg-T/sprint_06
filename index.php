@@ -36,7 +36,7 @@
                     <?php
 
                     // Connexion a la base de donnée
-                    require_once "config.php";
+                    include "config.php";
                     
                     // select query execution
                     $sql = "SELECT * FROM STOCKS";

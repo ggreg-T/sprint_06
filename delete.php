@@ -1,8 +1,9 @@
 <?php
+    // Inclure le fichier config
+    include "config.php";
 // confirmer
 if(isset($_POST["id"]) && !empty($_POST["id"])){
-    // Inclure le fichier config
-    require_once "config.php";
+
     
     // Prepare la requette
     $sql = "DELETE FROM STOCKS WHERE id = ?";
