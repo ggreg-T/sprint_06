@@ -2,7 +2,7 @@
 
 -- Lancement du site -- 
 
-Lancer le site en cliquant sur le lien : http://techer-gregory.sprint-06.sc1lgvu9627.univers.wf/
+Lancer le site en cliquant sur le lien : http://techer-gregory.sprint-06.sc1lgvu9627.universe.wf/
 
 -- User story --
 
